@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGCsdQJvKz/7G12d4JROfaTR6hAlUUGtPjm4tUIMRQFbybJKKhTGuc8p8gA+GSGTtseXoxQJw15xwzHhTBeQPg==",
+  "success": false,
+  "projectFilePath": "\\\\192.168.1.101\\Plugin_Share\\••PERSONAL\\Other\\Encryption\\Encryption\\Encryption.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'RhinoCommon' from remote source 'https://api.nuget.org/v3-flatcontainer/rhinocommon/index.json'.",
+      "libraryId": "RhinoCommon"
+    }
+  ]
+}
